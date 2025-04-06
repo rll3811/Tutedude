@@ -1,0 +1,28 @@
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> #### Assignment: 01.
+>>> ## Task: 01
+>>>
+>>> a = int(input("Enter the first number:"))
+Enter the first number:10
+>>> b = int(input("Enter the second number:"))
+Enter the second number:3
+>>> c=print("The sum of", a, "and", b, "is:", a+b)
+The sum of 10 and 3 is: 13
+>>> d=print("The subtraction of", a, "and", b, "is:", a-b)
+The subtraction of 10 and 3 is: 7
+>>> e=print("The multiplication of", a, "and", b, "is:", a*b)
+The multiplication of 10 and 3 is: 30
+>>> f=print("The division of", a, "and", b, "is:", a/b)
+The division of 10 and 3 is: 3.3333333333333335
+>>>
+>>>
+>>> ## Task: 02
+>>>
+>>> FstName = input("Enter your first name:")
+Enter your first name:Ram
+>>> LstName = input("Enter your last name:")
+Enter your last name:Lagad
+>>> print("Hello,", FstName + " " + LstName+"! Welcome to the python programm.")
+Hello, Ram Lagad! Welcome to the python programm.
+>>>
